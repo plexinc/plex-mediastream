@@ -1165,7 +1165,7 @@
 				<animation effect="slide" tween="circle" easing="inout" end="-865,0" delay="300" time="500" condition="!Window.Next(SettingsCategory.xml) + !Window.Next(1001) + !Window.Next(7) + !Window.Next(34)">WindowClose</animation>
 			</control>
 			<!-- Main Menu -->
-			<control type="wraplist" id="300">
+			<control type="fixedlist" id="300">
 				<description>Home Main Menu</description>
 				<posx>0</posx>
 				<posy>20</posy>
@@ -1176,7 +1176,8 @@
 				<onleft>Skin.ToggleSetting(HideNowPlayingMusicInfo)</onleft>
 				<onright>301</onright>
 				<focusposition>5</focusposition>
-				<scrolltime>200</scrolltime>
+				<scrolltime>300</scrolltime>
+				<movement>2</movement>
 				<include>HomeSlideLeft</include>
 				<visible allowhiddenfocus="true">Control.HasFocus(300)</visible>
 				<animation effect="fade" start="0" end="100" time="500">Visible</animation>
