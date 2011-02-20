@@ -23,12 +23,12 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>PowerBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundMidImage</include>
 						<texture>HomeBGPowerMid.jpg</texture>
 						<visible>!Skin.HasSetting(HomeBladeCentre)</visible>
 					</control>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundRightImage</include>
 						<texture>HomeBGPowerRight.jpg</texture>
 					</control>
@@ -44,12 +44,12 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>SystemBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundMidImage</include>
 						<texture>HomeBGSystemMid.jpg</texture>
 						<visible>!Skin.HasSetting(HomeBladeCentre)</visible>
 					</control>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundRightImage</include>
 						<texture>HomeBGSystemRight.jpg</texture>
 					</control>
@@ -66,12 +66,12 @@
 				<include>HomeWeatherBGFade</include>
 				<control type="group">
 					<include>WeatherBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundMidImage</include>
 						<texture>HomeBGWeatherMid.jpg</texture>
 						<visible>!Skin.HasSetting(HomeBladeCentre)</visible>
 					</control>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundRightImage</include>
 						<texture>HomeBGWeatherRight.jpg</texture>
 					</control>
@@ -87,12 +87,12 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>AppStoreBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundMidImage</include>
 						<texture>HomeBGAppStoreMid.jpg</texture>
 						<visible>!Skin.HasSetting(HomeBladeCentre)</visible>
 					</control>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundRightImage</include>
 						<texture>HomeBGAppStoreRight.jpg</texture>
 					</control>
@@ -104,12 +104,12 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>AppStoreBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundMidImage</include>
 						<texture>HomeBGFavouritesMid.jpg</texture>
 						<visible>!Skin.HasSetting(HomeBladeCentre)</visible>
 					</control>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundRightImage</include>
 						<texture>HomeBGFavouritesRight.jpg</texture>
 					</control>
@@ -121,12 +121,12 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>AppStoreBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundMidImage</include>
 						<texture>HomeBGHelpMid.jpg</texture>
 						<visible>!Skin.HasSetting(HomeBladeCentre)</visible>
 					</control>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundRightImage</include>
 						<texture>HomeBGHelpRight.jpg</texture>
 					</control>
@@ -138,12 +138,12 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>VideosBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundMidImage</include>
 						<texture>HomeBGVideosMid.png</texture>
 						<visible>!Skin.HasSetting(HomeBladeCentre)</visible>
 					</control>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundRightImage</include>
 						<texture>HomeBGVideosRight.png</texture>
 					</control>
@@ -159,12 +159,12 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>MoviesBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundMidImage</include>
 						<texture>HomeBGMoviesMid.png</texture>
 						<visible>!Skin.HasSetting(HomeBladeCentre)</visible>
 					</control>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundRightImage</include>
 						<texture>HomeBGMoviesRight.png</texture>
 					</control>
@@ -180,12 +180,12 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>TVShowsBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundMidImage</include>
 						<texture>HomeBGTVShowsMid.jpg</texture>
 						<visible>!Skin.HasSetting(HomeBladeCentre)</visible>
 					</control>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundRightImage</include>
 						<texture>HomeBGTVShowsRight.jpg</texture>
 					</control>
@@ -201,12 +201,12 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>MusicBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundMidImage</include>
 						<texture>HomeBGMusicMid.jpg</texture>
 						<visible>!Skin.HasSetting(HomeBladeCentre)</visible>
 					</control>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundRightImage</include>
 						<texture>HomeBGMusicRight.jpg</texture>
 					</control>
@@ -222,12 +222,12 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>PicturesBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundMidImage</include>
 						<texture>HomeBGPicturesMid.jpg</texture>
 						<visible>!Skin.HasSetting(HomeBladeCentre)</visible>
 					</control>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundRightImage</include>
 						<texture>HomeBGPicturesRight.jpg</texture>
 					</control>
@@ -243,12 +243,12 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>ProgramsBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundMidImage</include>
 						<texture>HomeBGProgramsMid.jpg</texture>
 						<visible>!Skin.HasSetting(HomeBladeCentre)</visible>
 					</control>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundRightImage</include>
 						<texture>HomeBGProgramsRight.jpg</texture>
 					</control>
@@ -264,12 +264,12 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>DVDBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundMidImage</include>
 						<texture>HomeBGDVDMid.png</texture>
 						<visible>!Skin.HasSetting(HomeBladeCentre)</visible>
 					</control>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundRightImage</include>
 						<texture>HomeBGDVDRight.png</texture>
 					</control>
@@ -290,17 +290,17 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>PowerBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundLeftImage</include>
 						<texture>HomeBGPowerLeftLow.jpg</texture>
 					</control>
 					<control type="group">
 						<visible>Skin.HasSetting(HomeBladeCentre)</visible>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidImage</include>
 							<texture>HomeBGPowerMidLow.jpg</texture>
 						</control>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidRightImage</include>
 							<texture>HomeBGPowerMidRightLow.jpg</texture>
 						</control>
@@ -313,17 +313,17 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>SystemBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundLeftImage</include>
 						<texture>HomeBGSystemLeftLow.jpg</texture>
 					</control>
 					<control type="group">
 						<visible>Skin.HasSetting(HomeBladeCentre)</visible>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidImage</include>
 							<texture>HomeBGSystemMidLow.jpg</texture>
 						</control>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidRightImage</include>
 							<texture>HomeBGSystemMidRightLow.jpg</texture>
 						</control>
@@ -337,17 +337,17 @@
 				<include>HomeWeatherBGFade</include>
 				<control type="group">
 					<include>WeatherBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundLeftImage</include>
 						<texture>HomeBGWeatherLeftLow.jpg</texture>
 					</control>
 					<control type="group">
 						<visible>Skin.HasSetting(HomeBladeCentre)</visible>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidImage</include>
 							<texture>HomeBGWeatherMidLow.jpg</texture>
 						</control>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidRightImage</include>
 							<texture>HomeBGWeatherMidRightLow.jpg</texture>
 						</control>
@@ -360,17 +360,17 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>AppStoreBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundLeftImage</include>
 						<texture>HomeBGAppStoreLeftLow.jpg</texture>
 					</control>
 					<control type="group">
 						<visible>Skin.HasSetting(HomeBladeCentre)</visible>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidImage</include>
 							<texture>HomeBGAppStoreMidLow.jpg</texture>
 						</control>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidRightImage</include>
 							<texture>HomeBGAppStoreMidRightLow.jpg</texture>
 						</control>
@@ -383,17 +383,17 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>AppStoreBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundLeftImage</include>
 						<texture>HomeBGFavouritesLeftLow.jpg</texture>
 					</control>
 					<control type="group">
 						<visible>Skin.HasSetting(HomeBladeCentre)</visible>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidImage</include>
 							<texture>HomeBGFavouritesMidLow.jpg</texture>
 						</control>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidRightImage</include>
 							<texture>HomeBGFavouritesMidRightLow.jpg</texture>
 						</control>
@@ -406,17 +406,17 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>HelpBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundLeftImage</include>
 						<texture>HomeBGHelpLeftLow.jpg</texture>
 					</control>
 					<control type="group">
 						<visible>Skin.HasSetting(HomeBladeCentre)</visible>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidImage</include>
 							<texture>HomeBGHelpMidLow.jpg</texture>
 						</control>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidRightImage</include>
 							<texture>HomeBGHelpMidRightLow.jpg</texture>
 						</control>
@@ -429,17 +429,17 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>VideosBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundLeftImage</include>
 						<texture>HomeBGVideosLeftLow.png</texture>
 					</control>
 					<control type="group">
 						<visible>Skin.HasSetting(HomeBladeCentre)</visible>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidImage</include>
 							<texture>HomeBGVideosMidLow.png</texture>
 						</control>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidRightImage</include>
 							<texture>HomeBGVideosMidRightLow.png</texture>
 						</control>
@@ -452,17 +452,17 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>MoviesBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundLeftImage</include>
 						<texture>HomeBGMoviesLeftLow.png</texture>
 					</control>
 					<control type="group">
 						<visible>Skin.HasSetting(HomeBladeCentre)</visible>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidImage</include>
 							<texture>HomeBGMoviesMidLow.png</texture>
 						</control>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidRightImage</include>
 							<texture>HomeBGMoviesMidRightLow.png</texture>
 						</control>
@@ -475,17 +475,17 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>TVShowsBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundLeftImage</include>
 						<texture>HomeBGTVShowsLeftLow.jpg</texture>
 					</control>
 					<control type="group">
 						<visible>Skin.HasSetting(HomeBladeCentre)</visible>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidImage</include>
 							<texture>HomeBGTVShowsMidLow.jpg</texture>
 						</control>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidRightImage</include>
 							<texture>HomeBGTVShowsMidRightLow.jpg</texture>
 						</control>
@@ -498,17 +498,17 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>MusicBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundLeftImage</include>
 						<texture>HomeBGMusicLeftLow.jpg</texture>
 					</control>
 					<control type="group">
 						<visible>Skin.HasSetting(HomeBladeCentre)</visible>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidImage</include>
 							<texture>HomeBGMusicMidLow.jpg</texture>
 						</control>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidRightImage</include>
 							<texture>HomeBGMusicMidRightLow.jpg</texture>
 						</control>
@@ -521,17 +521,17 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>PicturesBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundLeftImage</include>
 						<texture>HomeBGPicturesLeftLow.jpg</texture>
 					</control>
 					<control type="group">
 						<visible>Skin.HasSetting(HomeBladeCentre)</visible>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidImage</include>
 							<texture>HomeBGPicturesMidLow.jpg</texture>
 						</control>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidRightImage</include>
 							<texture>HomeBGPicturesMidRightLow.jpg</texture>
 						</control>
@@ -544,17 +544,17 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>ProgramsBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundLeftImage</include>
 						<texture>HomeBGProgramsLeftLow.jpg</texture>
 					</control>
 					<control type="group">
 						<visible>Skin.HasSetting(HomeBladeCentre)</visible>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidImage</include>
 							<texture>HomeBGProgramsMidLow.jpg</texture>
 						</control>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidRightImage</include>
 							<texture>HomeBGProgramsMidRightLow.jpg</texture>
 						</control>
@@ -567,17 +567,17 @@
 				<include>HomeBackgroundFade</include>
 				<control type="group">
 					<include>DVDBGVisible</include>
-					<control type="image">
+					<control type="largeimage">
 						<include>BackgroundLeftImage</include>
 						<texture>HomeBGDVDLeftLow.png</texture>
 					</control>
 					<control type="group">
 						<visible>Skin.HasSetting(HomeBladeCentre)</visible>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidImage</include>
 							<texture>HomeBGDVDMidLow.png</texture>
 						</control>
-						<control type="image">
+						<control type="largeimage">
 							<include>BackgroundMidRightImage</include>
 							<texture>HomeBGDVDMidRightLow.png</texture>
 						</control>
@@ -1008,12 +1008,13 @@
 							<label> $LOCALIZE[31602] </label>
 							<onclick>XBMC.ActivateWindow(18)</onclick>
 						</item>
+						-->
 						<item id="7">
 							<description>Developer Settings Button</description>
 							<label> Developer </label>
 							<onclick>XBMC.ActivateWindow(1002)</onclick>
 						</item>
-						-->
+						
 					</content>
 				</control>
 			</control>
@@ -1175,7 +1176,7 @@
 				<onleft>Skin.ToggleSetting(HideNowPlayingMusicInfo)</onleft>
 				<onright>301</onright>
 				<focusposition>5</focusposition>
-				<scrolltime>200</scrolltime>
+				<scrolltime>150</scrolltime>
 				<include>HomeSlideLeft</include>
 				<visible allowhiddenfocus="true">Control.HasFocus(300)</visible>
 				<animation effect="fade" start="0" end="100" time="500">Visible</animation>
