@@ -1,5 +1,4 @@
 <fonts>
-<!-- Win32 font aliases -->
   <aliases>
     <alias font="HelveticaNeue" variant="Condensed Bold" alias="Impact"/>
   </aliases>
