@@ -1176,7 +1176,7 @@
 				<onleft>Skin.ToggleSetting(HideNowPlayingMusicInfo)</onleft>
 				<onright>301</onright>
 				<focusposition>5</focusposition>
-				<scrolltime>200</scrolltime>
+				<scrolltime>150</scrolltime>
 				<include>HomeSlideLeft</include>
 				<visible allowhiddenfocus="true">Control.HasFocus(300)</visible>
 				<animation effect="fade" start="0" end="100" time="500">Visible</animation>
