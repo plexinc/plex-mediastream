@@ -834,6 +834,7 @@
 		<aligny>center</aligny>
 		<font>HomeMenuFocusFont</font>
 		<textcolor>HomeMain</textcolor>
+		<!--><textcolor>ffffffff</textcolor>-->
 		<shadowcolor>HomeShadow</shadowcolor>
 	</include>
   <include name="HomeMainMenuFOCaption2">

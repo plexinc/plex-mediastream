@@ -600,7 +600,8 @@
 
     <font>
       <name>HomeScreenUnselectedItems</name>
-      <filename>Arial.ttf</filename>
+      <filename>HelveticaNeue</filename>
+	  <variant>Condensed Bold</variant>
       <size>28</size>
     </font>
 

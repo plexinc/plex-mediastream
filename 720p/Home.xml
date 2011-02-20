@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <window id="0">
 	<defaultcontrol always="true">300</defaultcontrol>
 	<allowoverlay>no</allowoverlay>
@@ -591,7 +592,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1000)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-		       	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -602,7 +603,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1001)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-		       	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -613,7 +614,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1002)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-    		   	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -624,7 +625,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1003)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-    		   	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -635,7 +636,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1004)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
- 		      	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -646,7 +647,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1005)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-   		    	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -657,7 +658,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1006)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-    		   	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -668,7 +669,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1007)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
- 		      	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -679,7 +680,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1008)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-  		     	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -690,7 +691,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1009)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-   		    	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -701,7 +702,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1010)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-     		  	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -712,7 +713,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1011)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-  		     	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -723,7 +724,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1012)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-  		     	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -734,7 +735,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1013)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-     		  	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -745,7 +746,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1014)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-     		  	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -756,7 +757,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1015)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-     		  	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -767,7 +768,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1016)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-   		    	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -778,7 +779,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1017)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-   		    	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -789,7 +790,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1018)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
-		       	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -800,7 +801,7 @@
 			<control type="largeimage">
 				<visible>Container(300).HasFocus(1019)</visible>
 				<animation effect="fade" end="100" time="600" delay="300">Visible</animation>
- 		      	<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
+				<animation effect="fade" end="0" time="600" delay="600">Hidden</animation>
 				<info>Container(300).ListItem.Property(fanart_image)</info>
 				<posx>0</posx>
 				<posy>0</posy>
@@ -821,7 +822,6 @@
 			<height>720</height>
 			<texture>Black.png</texture>
 			<aspectratio>stretch</aspectratio>
-
 			<include condition="Skin.HasSetting(Background_0)">opacity_0</include>
 			<include condition="Skin.HasSetting(Background_10)">opacity_10</include>
 			<include condition="Skin.HasSetting(Background_20)">opacity_20</include>
@@ -834,7 +834,6 @@
 			<include condition="Skin.HasSetting(Background_90)">opacity_90</include>
 			<include condition="Skin.HasSetting(Background_100)">opacity_100</include>
 		</control>
-		
 		<!-- SubMenus -->
 		<control type="group" id="500">
 			<animation effect="fade" start="0" end="100" time="1000" delay="500">WindowOpen</animation>
@@ -845,11 +844,9 @@
 			<animation effect="fade" time="0" condition="[Window.Next(SettingsCategory.xml) | Window.Next(1001) | Window.Next(7) | Window.Next(34)]">WindowClose</animation>
 			<animation effect="fade" time="400" delay="200">Unfocus</animation>
 			<animation effect="slide" end="-440,0" time="0" condition="!Skin.HasSetting(HomeBladeCentre)">Conditional</animation>
-			
 			<control type="group" id="301">
 				<include>HomeSubMenuGroupDims</include>
 				<include>HomeSubMenuBackground</include>
-				    
 				<control type="list" id="407">
 					<description>Power Side Menu</description>
 					<onup>407</onup>
@@ -1014,11 +1011,10 @@
 							<label> Developer </label>
 							<onclick>XBMC.ActivateWindow(1002)</onclick>
 						</item>
-						
 					</content>
 				</control>
 			</control>
-      <control type="group" id="303">
+			<control type="group" id="303">
 				<include>HomeSubSubMenuGroupDims</include>
 				<animation effect="fade" time="500" delay="100">Focus</animation>
 				<animation effect="fade" time="200">Unfocus</animation>
@@ -1084,7 +1080,6 @@
 					</content>
 				</control>
 			</control>
-      
 		</control>
 		<control type="group">
 			<animation effect="slide" end="-440,0" time="0" condition="!Skin.HasSetting(HomeBladeCentre)">Conditional</animation>
@@ -1165,7 +1160,7 @@
 				<animation effect="slide" tween="circle" easing="inout" end="-865,0" delay="300" time="500" condition="!Window.Next(SettingsCategory.xml) + !Window.Next(1001) + !Window.Next(7) + !Window.Next(34)">WindowClose</animation>
 			</control>
 			<!-- Main Menu -->
-			<control type="fixedlist" id="300">
+			<control type="wraplist" id="300">
 				<description>Home Main Menu</description>
 				<posx>0</posx>
 				<posy>20</posy>
@@ -1176,7 +1171,7 @@
 				<onleft>Skin.ToggleSetting(HideNowPlayingMusicInfo)</onleft>
 				<onright>301</onright>
 				<focusposition>5</focusposition>
-				<scrolltime>300</scrolltime>
+				<scrolltime>200</scrolltime>
 				<movement>2</movement>
 				<include>HomeSlideLeft</include>
 				<visible allowhiddenfocus="true">Control.HasFocus(300)</visible>
@@ -1198,11 +1193,20 @@
 				</itemlayout>
 				<focusedlayout width="600" height="140">
 					<control type="label">
+						<animation type="Focus">
+							<effect type="zoom" start="55" end="100" center="810,51" time="300"/>
+							<effect type="fade" start="25" end="100" time="300"/>
+						</animation>
+						<animation type="UnFocus">
+							<effect type="zoom" start="100" end="55" center="810,51" time="300"/>
+							<effect type="fade" start="100" end="25" time="300"/>
+							<effect type="slide" end="-12,-59" time="300"/>
+						</animation>
 						<include>HomeMainMenuFOLabel2</include>
 					</control>
 					<control type="label">
-            <include>HomeMainMenuFOCaption2</include>
-          </control>
+						<include>HomeMainMenuFOCaption2</include>
+					</control>
 				</focusedlayout>
 				<content>
 					<item id="6">
@@ -1251,7 +1255,7 @@
 						<onclick>Plex.ActivateWindow(1,plex://localhost/system/plexonline,return)</onclick>
 						<visible>!Skin.HasSetting(HideAppStore)</visible>
 					</item>
- 					<item id="1">
+					<item id="1">
 						<description>Plug-ins Menu</description>
 						<label> $LOCALIZE[31970] </label>
 						<onclick>SetFocus(507)</onclick>
@@ -1305,12 +1309,13 @@
 					<include>HomeMainMenuFOLabel</include>
 					<include>HomeMainMenuOverFade</include>
 				</control>
-        <control type="label">
-          <info>Container(300).ListItem(0).Label2</info>
-          <include>HomeMainMenuFOCaption</include>
-          <include>HomeMainMenuOverFade</include>
-        </control>
+				<control type="label">
+					<info>Container(300).ListItem(0).Label2</info>
+					<include>HomeMainMenuFOCaption</include>
+					<include>HomeMainMenuOverFade</include>
+				</control>
 			</control>
+			<!-- Text overlay -->
 			<control type="group">
 				<posy>349</posy>
 				<visible>!Skin.HasSetting(HomeBladeCentre)</visible>
@@ -1322,12 +1327,13 @@
 					<include>HomeMainMenuFOLabel</include>
 					<include>HomeMainMenuOverFade</include>
 				</control>
-			     <control type="label">
-          	<info>Container(300).ListItem(0).Label2</info>
-          	<include>HomeMainMenuFOCaption</include>
-          	<include>HomeMainMenuOverFade</include>
-        	</control>
+				<control type="label">
+					<info>Container(300).ListItem(0).Label2</info>
+					<include>HomeMainMenuFOCaption</include>
+					<include>HomeMainMenuOverFade</include>
+				</control>
 			</control>
+			 
 			<control type="group">
 				<include>HomeSlideLeft</include>
 				<control type="image">
