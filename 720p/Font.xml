@@ -1,4 +1,9 @@
 <fonts>
+<!-- Win32 font aliases -->
+  <aliases>
+    <alias font="HelveticaNeue" variant="Condensed Bold" alias="Impact"/>
+  </aliases>
+
   <fontset id="Default" unicode="false">
 
 <!-- Jay's Fonts -->
@@ -8,28 +13,28 @@
 		<variant>Condensed Bold</variant>
 		<size>26</size>
 	</font>
-	
+
 	<font>
 		<name>MediaPreviewYear</name>
 		<filename>HelveticaNeue</filename>
 		<variant>Regular</variant>
 		<size>22</size>
 	</font>
-	
+
 	<font>
 		<name>MediaPreviewSummary</name>
 		<filename>HelveticaNeue</filename>
 		<variant>Regular</variant>
 		<size>18</size>
 	</font>
-	
+
 	<font>
 		<name>MediaPreviewDetailsHeader</name>
 		<filename>HelveticaNeue</filename>
 		<variant>Condensed Bold</variant>
 		<size>20</size>
 	</font>
-	
+
 	<font>
 		<name>EpisodeTitles</name>
 		<filename>HelveticaNeue</filename>
@@ -240,7 +245,7 @@
 			<variant>Condensed Bold</variant>
       <size>25</size>
     </font>
-    
+
 		<!-- InfoList titles -->
     <font>
       <name>MediumLargeTitleCapsFont</name>
@@ -430,7 +435,7 @@
 			<variant>Regular</variant>
       <size>20</size>
     </font>
-    
+
     <font>
       <name>XLargeDefaultFont</name>
       <filename>Arial.ttf</filename>
