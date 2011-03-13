@@ -834,7 +834,7 @@
 			<include condition="Skin.HasSetting(Background_90)">opacity_90</include>
 			<include condition="Skin.HasSetting(Background_100)">opacity_100</include>
 		</control>
-		
+
 		<!-- SubMenus -->
 		<control type="group" id="500">
 			<animation effect="fade" start="0" end="100" time="1000" delay="500">WindowOpen</animation>
@@ -845,11 +845,11 @@
 			<animation effect="fade" time="0" condition="[Window.Next(SettingsCategory.xml) | Window.Next(1001) | Window.Next(7) | Window.Next(34)]">WindowClose</animation>
 			<animation effect="fade" time="400" delay="200">Unfocus</animation>
 			<animation effect="slide" end="-440,0" time="0" condition="!Skin.HasSetting(HomeBladeCentre)">Conditional</animation>
-			
+
 			<control type="group" id="301">
 				<include>HomeSubMenuGroupDims</include>
 				<include>HomeSubMenuBackground</include>
-				    
+
 				<control type="list" id="407">
 					<description>Power Side Menu</description>
 					<onup>407</onup>
@@ -1083,7 +1083,7 @@
 					</content>
 				</control>
 			</control>
-      
+
 		</control>
 		<control type="group">
 			<animation effect="slide" end="-440,0" time="0" condition="!Skin.HasSetting(HomeBladeCentre)">Conditional</animation>
@@ -1216,7 +1216,7 @@
 					<item id="111">
 						<description>Quit Button</description>
 						<label> $LOCALIZE[31007] </label>
-						<onclick>Plex.ShutDown</onclick>
+						<onclick>Plex.Quit</onclick>
 						<visible>!Skin.HasSetting(HidePower) + !Skin.HasSetting(ShowSleep) + !Skin.HasSetting(ShowShutDown)</visible>
 					</item>
 					<item id="112">
