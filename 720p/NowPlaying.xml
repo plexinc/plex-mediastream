@@ -1,3 +1,4 @@
+
 <window id="50">
 
   <animation effect="fade" start="0" end="100" time="1000" reversible="true">WindowOpen</animation>
@@ -20,7 +21,7 @@
       <info>MusicPlayer.Fanart</info>
       <visible>!IsEmpty(MusicPlayer.Fanart)</visible>
       <include>BackgroundFade</include>
-      <animation effect="fade" end="20" time="0" condition="true">conditional</animation>
+      <animation effect="fade" end="0" time="0" condition="true">conditional</animation>
     </control>
 
     <!-- Normal view -->
