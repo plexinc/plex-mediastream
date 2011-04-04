@@ -1,7 +1,7 @@
 <includes>
 
 	<!-- Wide TV/Seasons TV Shows Views -->
-	
+
 	<include name="TV">
 		<control type="group">
 			<include>TVWideVisible</include>
@@ -371,7 +371,7 @@
 						<description>Star Rating Label</description>
 						<posy>70</posy>
 						<posx>60</posx>
-						<width>80</width>
+						<width>100</width>
 						<font>MediumTitleFont</font>
 						<label>$LOCALIZE[563]:</label>
 						<align>right</align>
@@ -919,7 +919,7 @@
 							<width>870</width>
 							<height>167</height>
 							<info>ListItem.Plot</info>
-							<font>MediaPreviewSummary</font>						
+							<font>MediaPreviewSummary</font>
 						</control>
 					</control>
 					<control type="group">
@@ -938,24 +938,25 @@
 							<width>775</width>
 							<height>467</height>
 							<info>ListItem.Plot</info>
-							<font>MediaPreviewSummary</font>						
+							<font>MediaPreviewSummary</font>
 						</control>
 					</control>
 					<control type="group">
 						<visible>container.content(episodes)</visible>
 						<posy>260</posy>
 						<posx>-325</posx>
-						
+
 						<control type="label">
 							<posy>4</posy>
 							<posx>73</posx>
+                                                        <width>80</width>
 							<description>Rating</description>
 							<font>MediaPreviewDetailsHeader</font>
 							<label>$LOCALIZE[31129]:</label>
 							<textcolor>FFfd9800</textcolor>
 							<align>right</align>
 						</control>
-						<control type="image">
+						<control type="image">x
 							<posx>73</posx>
 							<posy>2</posy>
 							<height>27</height>
@@ -967,6 +968,7 @@
 						<control type="label">
 							<posy>32</posy>
 							<posx>73</posx>
+                                                        <width>100</width>
 							<description>First Aired</description>
 							<font>MediaPreviewDetailsHeader</font>
 							<label>$LOCALIZE[31140]:</label>
@@ -976,6 +978,7 @@
 						<control type="label">
 							<posy>34</posy>
 							<posx>88</posx>
+                                                        <width>100</width>
 							<description>First Aired</description>
 							<font>MediaPreviewSummary</font>
 							<label>$INFO[ListItem.year]</label>
@@ -984,6 +987,7 @@
 						<control type="label">
 							<posy>60</posy>
 							<posx>73</posx>
+                                                        <width>100</width>
 							<description>Duration</description>
 							<font>MediaPreviewDetailsHeader</font>
 							<label>$LOCALIZE[31132]:</label>
@@ -1001,6 +1005,7 @@
 						<control type="label">
 							<posy>88</posy>
 							<posx>73</posx>
+                                                        <width>100</width>
 							<description>Writer</description>
 							<font>MediaPreviewDetailsHeader</font>
 							<label>$LOCALIZE[31136]:</label>
@@ -1018,6 +1023,7 @@
 						<control type="label">
 							<posy>116</posy>
 							<posx>73</posx>
+                                                        <width>100></width>
 							<description>Director</description>
 							<font>MediaPreviewDetailsHeader</font>
 							<label>$LOCALIZE[31135]:</label>
@@ -1032,9 +1038,9 @@
 							<label>$INFO[Listitem.Director]</label>
 							<align>left</align>
 						</control>
-						
-						
-						
+
+
+
 					</control>
 					<control type="group">
 						<posy>243</posy>
@@ -1043,6 +1049,7 @@
 						<control type="label">
 							<posy>4</posy>
 							<posx>73</posx>
+                                                        <width>80</width>
 							<description>Rating</description>
 							<font>MediaPreviewDetailsHeader</font>
 							<label>$LOCALIZE[31129]:</label>
@@ -1063,6 +1070,7 @@
 							<control type="label">
 								<posy>32</posy>
 								<posx>73</posx>
+                                                                <width>150</width>
 								<description>IMDb Rating</description>
 								<font>MediaPreviewDetailsHeader</font>
 								<label>$LOCALIZE[31130]:</label>
@@ -1084,6 +1092,7 @@
 							<control type="label">
 								<posy>32</posy>
 								<posx>73</posx>
+                                                                <width>100</width>
 								<description>First Aired</description>
 								<font>MediaPreviewDetailsHeader</font>
 								<label>$LOCALIZE[31140]:</label>
@@ -1093,6 +1102,7 @@
 							<control type="label">
 								<posy>34</posy>
 								<posx>88</posx>
+                                                                <width>100</width>
 								<description>First Aired</description>
 								<font>MediaPreviewSummary</font>
 								<label>$INFO[ListItem.date]</label>
@@ -1103,6 +1113,7 @@
 						<control type="label">
 							<posy>60</posy>
 							<posx>73</posx>
+                                                        <width>80</width>
 							<description>Genre</description>
 							<font>MediaPreviewDetailsHeader</font>
 							<label>$LOCALIZE[31131]:</label>
@@ -1112,6 +1123,7 @@
 						<control type="label">
 							<posy>62</posy>
 							<posx>88</posx>
+                                                        <width>180</width>
 							<description>Genre</description>
 							<font>MediaPreviewSummary</font>
 							<label>$INFO[ListItem.FirstGenre]</label>
@@ -1121,6 +1133,7 @@
 							<visible>Container.Content(movies)</visible>
 							<posy>88</posy>
 							<posx>73</posx>
+                                                        <width>100</width>
 							<description>Duration</description>
 							<font>MediaPreviewDetailsHeader</font>
 							<label>$LOCALIZE[31132]:</label>
@@ -1163,6 +1176,7 @@
 							<control type="label">
 								<posy>4</posy>
 								<posx>401</posx>
+                                                                <width>100</width>
 								<description>Cast</description>
 								<font>MediaPreviewDetailsHeader</font>
 								<label>$LOCALIZE[31134]:</label>
@@ -1181,6 +1195,7 @@
 							<control type="label">
 								<posy>32</posy>
 								<posx>401</posx>
+                                                                <width>100</width>
 								<description>Director</description>
 								<font>MediaPreviewDetailsHeader</font>
 								<label>$LOCALIZE[31135]:</label>
@@ -1198,6 +1213,7 @@
 							<control type="label">
 								<posy>60</posy>
 								<posx>401</posx>
+                                                                <width>100</width>
 								<description>Writer</description>
 								<font>MediaPreviewDetailsHeader</font>
 								<label>$LOCALIZE[31136]:</label>
@@ -1218,6 +1234,7 @@
 							<control type="label">
 								<posy>4</posy>
 								<posx>401</posx>
+                                                                <width>100</width>
 								<description>Watched</description>
 								<font>MediaPreviewDetailsHeader</font>
 								<label>$LOCALIZE[31138]:</label>
@@ -1236,6 +1253,7 @@
 							<control type="label">
 								<posy>32</posy>
 								<posx>401</posx>
+                                                                <width>100</width>
 								<description>Unwatched</description>
 								<font>MediaPreviewDetailsHeader</font>
 								<label>$LOCALIZE[31139]:</label>
@@ -1462,7 +1480,7 @@
 						<label>$INFO[ListItem.Episode]. $INFO[Listitem.Title]</label>
 						<font>MediaPreviewDetailsHeader</font>
 					</control>
-					
+
 					<include>MediaPreviewEpThumbOverlay</include>
 				</focusedlayout>
 				<itemlayout condition="Skin.HasSetting(ShowAnimMediaPreview)" width="106" height="78">
