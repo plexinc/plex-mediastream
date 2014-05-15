@@ -343,7 +343,7 @@
 							<aligny>center</aligny>
 							<label>$INFO[ListItem.Property(UnWatchedEpisodes)]</label>
 							<textcolor>Unfocused</textcolor>
-							<visible>IsEmpty(ListItem.Property(ZeroEpisodeCount)) + !Container.Content(Albums)</visible>
+							<visible>IsEmpty(ListItem.Property(ZeroEpisodeCount)) + !Container.Content(Albums) + !Container.Content(episodes)</visible>
 						</control>
 						<!-- unwatched icon -->
 						<control type="image">
@@ -429,7 +429,7 @@
 							<aligny>center</aligny>
 							<label>$INFO[ListItem.Property(UnWatchedEpisodes)]</label>
 							<textcolor>Focused</textcolor>
-							<visible>IsEmpty(ListItem.Property(ZeroEpisodeCount)) + !Container.Content(Albums)</visible>
+							<visible>IsEmpty(ListItem.Property(ZeroEpisodeCount)) + !Container.Content(Albums) + !Container.Content(episodes)</visible>
 						</control>
 						<control type="group">
 							<visible>!Container.Content(episodes)</visible>
